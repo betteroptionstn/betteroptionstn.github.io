@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.f60ace00.chunk.css",
-    "main.js": "/static/js/main.d586f02f.chunk.js",
-    "main.js.map": "/static/js/main.d586f02f.chunk.js.map",
+    "main.js": "/static/js/main.acae1e1e.chunk.js",
+    "main.js.map": "/static/js/main.acae1e1e.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
     "static/js/2.6c01aaf1.chunk.js": "/static/js/2.6c01aaf1.chunk.js",
     "static/js/2.6c01aaf1.chunk.js.map": "/static/js/2.6c01aaf1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d378825dc4afd6c24824cf8b940fbef5.js": "/precache-manifest.d378825dc4afd6c24824cf8b940fbef5.js",
+    "precache-manifest.888251dbbdedda63a87705c19f13b958.js": "/precache-manifest.888251dbbdedda63a87705c19f13b958.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.f60ace00.chunk.css.map": "/static/css/main.f60ace00.chunk.css.map",
     "static/media/2020event.jpg": "/static/media/2020event.9157cb98.jpg",
